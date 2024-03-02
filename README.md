@@ -1,6 +1,6 @@
 <div align="center">
   <h1>next-chakra-ts-starter</h1>
-  <p>A personal opinionated starter for Next.js, Chakra UI, and Typescript</p>
+  <p>A personal opinionated starter for Next.js, Chakra UI, and Typescript 2024.03.02</p>
 </div>
 
 ## Features
